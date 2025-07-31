@@ -1,0 +1,165 @@
+﻿  pch.cpp
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\leechcore.h(120,15):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\leechcore.h(473,14):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\leechcore.h(482,14):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(395,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(395,35):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1548,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1548,25):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1558,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1558,25):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1565,27): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1565,27):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1574,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1574,28):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1583,36): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1583,36):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1599,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1599,25):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1609,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1609,25):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1618,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1618,26):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1626,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1626,31):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1633,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1633,28):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1646,38): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1646,38):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1655,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1655,28):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1666,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1666,26):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1675,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1675,29):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1684,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1684,29):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1693,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1693,29):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1702,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1702,25):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1710,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1710,29):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1719,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1719,26):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1728,24): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1728,24):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1737,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(1737,29):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(2322,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“pch.cpp”)
+      C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\MemProcFS\vmmdll.h(2322,25):
+      默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Dev.cpp
+  GodMode.cpp
+  Teleport.cpp
+  WeaponInspector.cpp
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\GTA5_DMA\WeaponInspector.cpp(169,18): warning C4244: “初始化”: 从“unsigned long”转换到“uint8_t”，可能丢失数据
+  (编译源文件“/WeaponInspector.cpp”)
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\GTA5_DMA\WeaponInspector.cpp(185,18): warning C4244: “初始化”: 从“unsigned long”转换到“uint8_t”，可能丢失数据
+  (编译源文件“/WeaponInspector.cpp”)
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\GTA5_DMA\WeaponInspector.cpp(201,18): warning C4244: “初始化”: 从“unsigned long”转换到“uint8_t”，可能丢失数据
+  (编译源文件“/WeaponInspector.cpp”)
+  
+C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\GTA5_DMA\WeaponInspector.cpp(217,18): warning C4244: “初始化”: 从“unsigned long”转换到“uint8_t”，可能丢失数据
+  (编译源文件“/WeaponInspector.cpp”)
+  
+  DMA.cpp
+  RefreshHealth.cpp
+  main.cpp
+  MyImGui.cpp
+  MyMenu.cpp
+  NoWanted.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 2904 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  GTA5_DMA.vcxproj -> C:\Users\Administrator\Downloads\GTA5_DMA_v4_源码\GTA5_DMA\x64\Release\GTA5_DMA.exe
